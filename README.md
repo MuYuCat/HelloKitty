@@ -4,4 +4,4 @@
 	2.	使用css进行形式的填充	
 	
 ### Kitty猫的demo演示
-[demo](https://muyucat.github.io/HelloKitty/index.html)
+[demo](https://muyucat.github.io/HelloKitty/./index.html)
